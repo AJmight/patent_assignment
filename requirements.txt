@@ -1,0 +1,9 @@
+pandas
+sqlalchemy
+psycopg2-binary
+matplotlib
+seaborn
+plotly
+gradio
+python-dotenv
+kaleido
