@@ -14,7 +14,7 @@ The cleaned CSV files (`clean_patents.csv`, `clean_inventors.csv`, `clean_compan
 The dashboard is built with **Gradio** and can be launched in two ways:
 
 ### Option 1: Run the notebook in Colab 
-IF THIS LINK ISNT ACTIVE {https://065b674c417f5cbbb9.gradio.live/}
+IF THIS LINK ISNT ACTIVE https://065b674c417f5cbbb9.gradio.live/
 1. Open the file `patent_pipeline.ipynb` in Google Colab.
 2. Run from cell Cell 6 — Connect to Supabase (secure password prompt) to GRADIO DASHBOARD Excluding cell 7 and 8 . The gradio cell will create a **public Gradio link** (e.g., `https://xxxx.gradio.live`).
 3. Click that link to explore the 11 interactive charts with live database queries.
